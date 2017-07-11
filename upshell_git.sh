@@ -53,7 +53,7 @@ git remote remove origin
 
 git branch TrinhVanBinh
 git checkout TrinhVanBinh
-git pull origin TrinhVanBinh
+git pull TrinhVanBinh
 
 git remote add origin "$path"
 #git remote set-url origin git@github.com/TCU1/ChatClientServer_Python/
