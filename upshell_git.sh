@@ -11,7 +11,7 @@
 path="https://github.com/TCU1/ChatClientServer_Python/"
 username="balau123"
 email="thai.itplus@gmail.com"
-work_path="/home/kids/Desktop/ChatClientServer_Python"
+work_path="/home/kids/Desktop/ChatClientServer_Python/"
 
 git config --global user.name $username
 git config --global user.email $email
