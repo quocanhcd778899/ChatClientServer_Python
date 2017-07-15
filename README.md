@@ -35,7 +35,6 @@ Hình ảnh các client đang chat
 
 <h2><left>Sơ đồ nguyên lý hoạt động</h2>
 <br><img src='/img/socket.jpg'></left>
-
 <h2>Phần 6: Tài liệu cho người dùng cuối:</h2>
 https://github.com/TCU1/ChatClientServer_Python/tree/master/Document
 
