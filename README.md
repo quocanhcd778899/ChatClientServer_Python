@@ -39,11 +39,15 @@ Hình ảnh các client đang chat
 
 <h2>Phần 6: Tài liệu cho người dùng cuối:</h2>
 https://github.com/TCU1/ChatClientServer_Python/tree/master/Document
+
 <h2>Phần 7: Tài liệu cho nhà phát triển:</h2>
 https://github.com/TCU1/ChatClientServer_Python/tree/master/Document
+
 <h2>Phần 8: Kênh trao đổi thông tin:</h2>
 
-<h2>Phần 9: Thông tin giấy phép & tổ chức mã nguồn:</h2>
+<h2>Phần 9: Tài liệu cho nhà phát triển:</h2>
+
+<h2>Phần 10: Thông tin giấy phép & tổ chức mã nguồn:</h2>
 https://github.com/TCU1/ChatClientServer_Python/tree/master/Document
 
 
