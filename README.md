@@ -20,11 +20,11 @@
 		<br> Giao diện trực quan
 	
 <h2>Phần 3: Chuẩn lập trình:</h2>
-https://github.com/TCU1/ChatClientServer_Python/master/Readme/
+https://github.com/TCU1/ChatClientServer_Python/blob/master/Readme/programming.md
 
 
 <h2>Phần 4: Hướng dẫn sử dụng:</h2>
-https://github.com/TCU1/ChatClientServer_Python/master/Readme/
+https://github.com/TCU1/ChatClientServer_Python/blob/master/Readme/hdsd.md
 
 <h2>Phần 5: Sản Phẩm:</h2>
 Hình ảnh các client đang chat
